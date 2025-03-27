@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "xaG9qBeXV2+fOaSQAaqAL7Dl9ZCbeeZBEAWgfcDeSW4=",
+  "Source": "apiTesteOrders",
+  "BasePath": "_content/apiTesteOrders",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

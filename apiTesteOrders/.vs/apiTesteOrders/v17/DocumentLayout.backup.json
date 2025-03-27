@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathe\\OneDrive\\Documentos\\GitHub\\TesteSiteAdmPedidos\\apiTesteOrders\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D255AF8-FE02-4E14-8D0E-096CD81F1C62}|apiTesteOrders.csproj|c:\\users\\mathe\\onedrive\\documentos\\github\\testesiteadmpedidos\\apitesteorders\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D255AF8-FE02-4E14-8D0E-096CD81F1C62}|apiTesteOrders.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D255AF8-FE02-4E14-8D0E-096CD81F1C62}|apiTesteOrders.csproj|c:\\users\\mathe\\onedrive\\documentos\\github\\testesiteadmpedidos\\apitesteorders\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D255AF8-FE02-4E14-8D0E-096CD81F1C62}|apiTesteOrders.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D255AF8-FE02-4E14-8D0E-096CD81F1C62}|apiTesteOrders.csproj|c:\\users\\mathe\\onedrive\\documentos\\github\\testesiteadmpedidos\\apitesteorders\\migrations\\20250325012104_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D255AF8-FE02-4E14-8D0E-096CD81F1C62}|apiTesteOrders.csproj|solutionrelative:migrations\\20250325012104_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D255AF8-FE02-4E14-8D0E-096CD81F1C62}|apiTesteOrders.csproj|c:\\users\\mathe\\onedrive\\documentos\\github\\testesiteadmpedidos\\apitesteorders\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D255AF8-FE02-4E14-8D0E-096CD81F1C62}|apiTesteOrders.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D255AF8-FE02-4E14-8D0E-096CD81F1C62}|apiTesteOrders.csproj|c:\\users\\mathe\\onedrive\\documentos\\github\\testesiteadmpedidos\\apitesteorders\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D255AF8-FE02-4E14-8D0E-096CD81F1C62}|apiTesteOrders.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D255AF8-FE02-4E14-8D0E-096CD81F1C62}|apiTesteOrders.csproj|c:\\users\\mathe\\onedrive\\documentos\\github\\testesiteadmpedidos\\apitesteorders\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0D255AF8-FE02-4E14-8D0E-096CD81F1C62}|apiTesteOrders.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D255AF8-FE02-4E14-8D0E-096CD81F1C62}|apiTesteOrders.csproj|c:\\users\\mathe\\onedrive\\documentos\\github\\testesiteadmpedidos\\apitesteorders\\orderhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D255AF8-FE02-4E14-8D0E-096CD81F1C62}|apiTesteOrders.csproj|solutionrelative:orderhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D255AF8-FE02-4E14-8D0E-096CD81F1C62}|apiTesteOrders.csproj|c:\\users\\mathe\\onedrive\\documentos\\github\\testesiteadmpedidos\\apitesteorders\\orderservicebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D255AF8-FE02-4E14-8D0E-096CD81F1C62}|apiTesteOrders.csproj|solutionrelative:orderservicebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D255AF8-FE02-4E14-8D0E-096CD81F1C62}|apiTesteOrders.csproj|c:\\users\\mathe\\onedrive\\documentos\\github\\testesiteadmpedidos\\apitesteorders\\orderstatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D255AF8-FE02-4E14-8D0E-096CD81F1C62}|apiTesteOrders.csproj|solutionrelative:orderstatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D255AF8-FE02-4E14-8D0E-096CD81F1C62}|apiTesteOrders.csproj|c:\\users\\mathe\\onedrive\\documentos\\github\\testesiteadmpedidos\\apitesteorders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D255AF8-FE02-4E14-8D0E-096CD81F1C62}|apiTesteOrders.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D255AF8-FE02-4E14-8D0E-096CD81F1C62}|apiTesteOrders.csproj|c:\\users\\mathe\\onedrive\\documentos\\github\\testesiteadmpedidos\\apitesteorders\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D255AF8-FE02-4E14-8D0E-096CD81F1C62}|apiTesteOrders.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DockerFile",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\GitHub\\TesteSiteAdmPedidos\\apiTesteOrders\\DockerFile",
+              "RelativeDocumentMoniker": "DockerFile",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\GitHub\\TesteSiteAdmPedidos\\apiTesteOrders\\DockerFile",
+              "RelativeToolTip": "DockerFile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-27T04:32:45.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderHub.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\GitHub\\TesteSiteAdmPedidos\\apiTesteOrders\\OrderHub.cs",
+              "RelativeDocumentMoniker": "OrderHub.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\GitHub\\TesteSiteAdmPedidos\\apiTesteOrders\\OrderHub.cs",
+              "RelativeToolTip": "OrderHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T04:23:53.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderStatusService.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\GitHub\\TesteSiteAdmPedidos\\apiTesteOrders\\OrderStatusService.cs",
+              "RelativeDocumentMoniker": "OrderStatusService.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\GitHub\\TesteSiteAdmPedidos\\apiTesteOrders\\OrderStatusService.cs",
+              "RelativeToolTip": "OrderStatusService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:05:18.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderServiceBus.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\GitHub\\TesteSiteAdmPedidos\\apiTesteOrders\\OrderServiceBus.cs",
+              "RelativeDocumentMoniker": "OrderServiceBus.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\GitHub\\TesteSiteAdmPedidos\\apiTesteOrders\\OrderServiceBus.cs",
+              "RelativeToolTip": "OrderServiceBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:56:30.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\GitHub\\TesteSiteAdmPedidos\\apiTesteOrders\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\GitHub\\TesteSiteAdmPedidos\\apiTesteOrders\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T00:03:46.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\GitHub\\TesteSiteAdmPedidos\\apiTesteOrders\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\GitHub\\TesteSiteAdmPedidos\\apiTesteOrders\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T01:24:35.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250325012104_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\GitHub\\TesteSiteAdmPedidos\\apiTesteOrders\\Migrations\\20250325012104_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250325012104_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\GitHub\\TesteSiteAdmPedidos\\apiTesteOrders\\Migrations\\20250325012104_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250325012104_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T01:21:04.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\GitHub\\TesteSiteAdmPedidos\\apiTesteOrders\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\GitHub\\TesteSiteAdmPedidos\\apiTesteOrders\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T01:04:22.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\GitHub\\TesteSiteAdmPedidos\\apiTesteOrders\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\GitHub\\TesteSiteAdmPedidos\\apiTesteOrders\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T00:49:17.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\GitHub\\TesteSiteAdmPedidos\\apiTesteOrders\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\GitHub\\TesteSiteAdmPedidos\\apiTesteOrders\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T00:44:22.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\GitHub\\TesteSiteAdmPedidos\\apiTesteOrders\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\GitHub\\TesteSiteAdmPedidos\\apiTesteOrders\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T00:42:05.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

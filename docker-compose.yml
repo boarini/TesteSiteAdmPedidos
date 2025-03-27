@@ -1,0 +1,42 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./apiTesteOrders
+    ports:
+      - "7152:7152"
+    networks:
+      - my-network
+    environment:
+      - ASPNETCORE_URLS=http://+:7152
+    depends_on:
+      - db
+
+  frontend:
+    build:
+      context: ./app-teste-entrevista
+    ports:
+      - "3000:3000"
+    networks:
+      - my-network
+    depends_on:
+      - backend
+
+  db:
+    image: postgres:latest
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: orders_db
+    volumes:
+      - db-data:/var/lib/postgresql/data
+    networks:
+      - my-network
+
+networks:
+  my-network:
+    driver: bridge
+
+volumes:
+  db-data:
