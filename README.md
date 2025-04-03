@@ -21,6 +21,13 @@ Como Rodar o Projeto
    Node.js (para rodar o frontend sem Docker, se necessário)  
    .NET 7+ (para rodar o backend sem Docker, se necessário)  
 
+
+Também é necessário, por conta de restirções do github, em appsettings.json, em AzureServiceBusConnectionString, colocar um endpoint pessoal (porém terá que alterar o nome da fila logo abaixo) ou usar a minha chave que é:
+
+Endpoint=sb://testeapi. servicebus.windows.n et/;SharedAccessKeyName=Root ManageSharedAccessKey;SharedAccessKey=o0cXBLZmk KvD6Qf5FcIDbT2OKwMVh2qW3+ASbD5yPTQ=
+(contém espaços para ajudar com a detecção)
+
+
 Caso utilize Docker Compose:  
    Execute o seguinte comando no terminal na raiz do projeto:  
 
@@ -41,7 +48,7 @@ Rodando manualmente:
     dotnet run
    
     A API estará disponível em `http://localhost:7152`.  
-
+   Mude, também, o apiTesteOrders/appsettings.json para conectar ao seu bd
   
     Acesse a pasta do frontend:  
     cd app-teste-entrevista
